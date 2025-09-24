@@ -1,1 +1,1 @@
-This notebook predicts the price of a used vehicle.
+This notebook predicts the price of used vehicles.
